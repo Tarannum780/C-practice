@@ -2,7 +2,7 @@
 int main(){
 
 
-char arr[5];
+char arr[5] ;
 printf("Enter the elements of the array:\n");
 
 for(int i=0; i<5; i++){
